@@ -1,3 +1,4 @@
+import 'package:confirm_wallet_connect/HomePage.dart';
 import 'package:flutter/material.dart';
 
 void main() {
@@ -12,7 +13,7 @@ class MainApp extends StatelessWidget {
     return const MaterialApp(
       home: Scaffold(
         body: Center(
-          child: Text('Hello World!'),
+          child: HomePage(),
         ),
       ),
     );

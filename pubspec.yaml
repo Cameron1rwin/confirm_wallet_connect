@@ -9,6 +9,8 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
+  walletconnect_flutter_v2: ^2.3.1
+  web3modal_flutter: ^3.3.3
 
 dev_dependencies:
   flutter_test:
